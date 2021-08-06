@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @17041097
+- 👋 Hi, I’m Suryansh Gupta
 - 👀 I’m interested in Python, C, SQL etc.
 - 🌱 I’m currently learning Project
 - 📫 How to reach me, through whatsapp DM- 6395892043
